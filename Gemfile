@@ -1,3 +1,4 @@
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
-gem 'octokit'
+# Specify your gem's dependencies in github_scouter.gemspec
+gemspec
