@@ -1,3 +1,5 @@
+# encoding: utf-8
+
 require "github_scouter/version"
 require 'octokit'
 
